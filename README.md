@@ -1,4 +1,4 @@
-#WINE QUALITY ANALYSIS
+<h1>WINE QUALITY ANALYSIS</h1>
 
 
 <p>An Entry level project in Data Science on Wine dataset. In this project, I have tried to apply my basic understanding of data science concept so as to build a quality classifier.&nbsp;<br /><br />The complete report of the project is available&nbsp;in PROJECT REPORT.pdf</p>
